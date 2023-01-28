@@ -1,0 +1,12 @@
+{
+  "license": "MIT",
+  "unity": "2020.3",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jubessin",
+"url": "https://github.com/Jubessin"
+  },
+  "displayName": "Globals",
+  "name": "com.ikonoclast.globals",
+  "description": "Package of global functionality used in the development of Ikonoclast projects."
+}
